@@ -1,0 +1,9 @@
+service/userServiceRemote.class
+entities/User$Role.class
+entities/parking.class
+entities/personnel.class
+service/userService.class
+entities/User.class
+service/userServiceLocal.class
+entities/zone.class
+entities/personnel$Poste.class
